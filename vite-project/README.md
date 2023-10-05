@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 Static Site: https://react-app-vite-v1.onrender.com
 
+![image](https://github.com/RittikPradhan/react-vite-boilerplate/assets/37213303/e5be3546-d405-4eec-97ab-4f9c53445e2f)
 
-![image](https://github.com/RittikPradhan/react-vite-boilerplate/assets/37213303/0c5c5886-158f-493d-8822-13131cb58dfd)
 
