@@ -8,3 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Static Site: https://react-app-vite-v1.onrender.com
+
+
+![image](https://github.com/RittikPradhan/react-vite-boilerplate/assets/37213303/0c5c5886-158f-493d-8822-13131cb58dfd)
+
